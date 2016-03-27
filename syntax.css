@@ -1,0 +1,16 @@
+p{
+	line-height:15px;　　
+}
+table{
+	border: 0;
+	background-color: 00FF99;
+	border-style: solid;
+	color:blue;
+	  padding-top:15px; 
+  padding-left:10px; 
+  padding-right:30px; 
+  padding-bottom:40px; 
+}
+.bold{
+	font-weight: 900;
+}

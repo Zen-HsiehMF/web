@@ -1,0 +1,41 @@
+p{
+	font-family: 華康雅風體W3;;
+	line-height:30px;
+	font-weight: bold;
+	font-size: 20px;
+}
+h2{
+	font-family: 標楷體;
+	font-weight: 900;
+	font-size: 20px;
+	color:red;
+}
+table { 
+  border: 1; 
+  font-family: Meiryo; 
+  font-size:18px; 
+  border-collpase:collpase; 
+  width:600px;
+} 
+th { 
+  font-family: 標楷體;
+  font-size: 18px;
+  background-color:yellow; 
+} 
+td { 
+  background-color: grey;
+} 
+li{
+	font-family: 標楷體;
+	color: blue;
+	font-size: 18px;
+}
+.green{
+	color: green;
+}
+.red{
+	color: red;
+}
+.pink{
+	color: rgb(255,0,255);
+}

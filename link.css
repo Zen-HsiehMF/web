@@ -1,0 +1,37 @@
+p{
+	font-family: Meiryo;
+	font-size: 20px;
+}
+.red{
+	color:red;
+}
+table{
+	font-size: 16px;
+	font-family: Meiryo;
+	color:yellow;
+	border-style:outset;
+}
+td{
+	background-color: black;
+}
+a:link
+{
+	color:#FF0000; 
+	text-decoration:none;
+}
+a:visited
+{
+	color:#0000FF;
+	text-decoration:none;
+}
+a:hover
+{
+	font-size:20; 
+	color:#00FF00; 
+	text-decoration:underline;
+}
+a:active 
+{
+	color:#FF00FF; 
+	text-decoration:underline;
+}
